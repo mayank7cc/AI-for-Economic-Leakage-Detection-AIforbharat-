@@ -1,0 +1,16 @@
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+rapidfuzz
+faker
+fastapi
+uvicorn
+python-multipart
+pydantic
+transformers
+torch
+folium
+plotly
+boto3
