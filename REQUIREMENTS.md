@@ -591,10 +591,9 @@ See `.env.example` for complete configuration template.
 
 ## 14. Contact & Support
 
-**Project Repository**: [GitHub URL]
+**Project Repository**: https://github.com/mayank7cc/AI-for-Economic-Leakage-Detection-AIforbharat-
 **Documentation**: See README.md
-**Issue Tracking**: [GitHub Issues]
-**Technical Support**: [Contact Email]
+**Technical Support**: mayankparab2006@gmail.com
 
 ---
 
