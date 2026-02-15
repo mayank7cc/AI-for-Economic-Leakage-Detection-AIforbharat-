@@ -276,8 +276,8 @@ Even a 5 percent leakage reduction can save crores annually.
 
 ## Contributors
 
-Mayank Parab  
-Team AI for Bharat
+Mayank Parab , Nipun Alwala , Aditya Dhuri 
+ESaral Tech Team
 
 ---
 
@@ -290,3 +290,4 @@ mayankparab2006@gmail.com
 ## One-Line Pitch
 
 AI-powered predictive governance to detect and prevent welfare fund leakage before it happens.
+
