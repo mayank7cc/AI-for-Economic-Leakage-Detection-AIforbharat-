@@ -5,6 +5,10 @@ An AI-powered governance intelligence platform that detects fraud, predicts leak
 
 ---
 
+
+https://github.com/user-attachments/assets/124485a3-496d-496e-a918-5f7df7cb1ca5
+
+
 ## Overview
 
 Economic leakage in welfare systems prevents benefits from reaching rightful citizens due to fraud, duplicate beneficiaries, abnormal fund distribution, and delayed corruption detection.
@@ -289,5 +293,6 @@ mayankparab2006@gmail.com
 ## One-Line Pitch
 
 AI-powered predictive governance to detect and prevent welfare fund leakage before it happens.
+
 
 
